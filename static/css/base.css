@@ -6,10 +6,16 @@ body {
     background: url('/media/cart8.jpg') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 164px);
-    color: #555;
+    background-color: #eb454575;
     font-family: 'Lato';
 }
-
+.new-collection-title{
+    background-color: rgba(0, 0, 0, 0.5); /* Напівпрозорий чорний фон */
+    color: white; /* Білий текст */
+    padding: 10px; /* Відступи всередині */
+    display: inline-block; /* Щоб фон відповідав розміру тексту */
+    border-radius: 5px; /* Кути фону трохи закруглені */
+}
 /* from Bulma */
 .icon {
     align-items: center;
