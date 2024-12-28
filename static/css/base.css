@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background: url('/media/rose.jpg') no-repeat center center fixed;
+    background: url('/media/candle1.jpeg') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 164px);
     background-color: #eb454575;
