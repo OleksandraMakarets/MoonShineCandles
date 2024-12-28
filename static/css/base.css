@@ -6,7 +6,7 @@ body {
     background: url('/media/candle1.jpeg') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 164px);
-    background-color: #eb454575;
+    color: #555;
     font-family: 'Lato';
 }
 
@@ -26,9 +26,23 @@ body {
 .main-logo-link {
     width: fit-content;
 }
+.new-collection-title {
+    font-size: 3rem; 
+    font-weight: bold; 
+    color: #ffffff; 
+    text-shadow: 2px 2px 4px rgba(152, 104, 32, 0.7); 
+    text-align: center; 
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+    line-height: 1.2; 
+    letter-spacing: 2px; 
+    padding: 10px 20px; 
+    border-radius: 8px; 
+    display: inline-block; 
+}
 
 .shop-now-button {
-    background: black;
+    background: rgba(247, 162, 5, 0.487);
     color: white;
     min-width: 260px;
 }
