@@ -1,0 +1,262 @@
+[
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+      "sku": "sc1001",
+      "name": "Lavender Bliss",
+      "description": "A calming lavender-scented candle to create a peaceful ambiance.",
+      "price": 15.99,
+      "category": 1,
+      "rating": 4.8,
+      "image": "lavender_bliss.jpg"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+      "sku": "uc1001",
+      "name": "Pure White",
+      "description": "A simple, elegant unscented candle perfect for any occasion.",
+      "price": 12.50,
+      "category": 2,
+      "rating": 4.5,
+      "image": "pure_white.jpg"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "products.product",
+    "fields": {
+      "sku": "dc1001",
+      "name": "Golden Glow",
+      "description": "A decorative candle with a golden finish for special moments.",
+      "price": 19.99,
+      "category": 3,
+      "rating": 4.7,
+      "image": "golden_glow.jpg"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "products.product",
+    "fields": {
+      "sku": "gs1001",
+      "name": "Romantic Gift Set",
+      "description": "A set of scented candles perfect for gifting your loved ones.",
+      "price": 29.99,
+      "category": 4,
+      "rating": 4.9,
+      "image": "romantic_gift_set.jpg"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "products.product",
+    "fields": {
+      "sku": "sn1001",
+      "name": "Winter Wonderland",
+      "description": "A seasonal candle with a warm, spicy scent to celebrate winter.",
+      "price": 17.99,
+      "category": 5,
+      "rating": 4.6,
+      "image": "winter_wonderland.jpg"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "products.product",
+    "fields": {
+      "sku": "sc1002",
+      "name": "Rose Delight",
+      "description": "A romantic rose-scented candle to brighten any evening.",
+      "price": 14.99,
+      "category": 1,
+      "rating": 4.7,
+      "image": "rose_delight.jpg"
+    }
+  },
+  {
+    "pk": 7,
+    "model": "products.product",
+    "fields": {
+      "sku": "uc1002",
+      "name": "Classic Ivory",
+      "description": "An unscented ivory candle for a touch of elegance.",
+      "price": 11.99,
+      "category": 2,
+      "rating": 4.4,
+      "image": "classic_ivory.jpg"
+    }
+  },
+  {
+    "pk": 8,
+    "model": "products.product",
+    "fields": {
+      "sku": "dc1002",
+      "name": "Silver Shine",
+      "description": "A decorative candle with a silver glow for special occasions.",
+      "price": 21.99,
+      "category": 3,
+      "rating": 4.6,
+      "image": "silver_shine.jpg"
+    }
+  },
+  {
+    "pk": 9,
+    "model": "products.product",
+    "fields": {
+      "sku": "gs1002",
+      "name": "Wellness Gift Set",
+      "description": "A perfect gift set with calming scents for relaxation.",
+      "price": 34.99,
+      "category": 4,
+      "rating": 4.8,
+      "image": "wellness_gift_set.jpg"
+    }
+  },
+  {
+    "pk": 10,
+    "model": "products.product",
+    "fields": {
+      "sku": "sn1002",
+      "name": "Autumn Leaves",
+      "description": "A seasonal candle with a crisp autumn fragrance.",
+      "price": 18.99,
+      "category": 5,
+      "rating": 4.5,
+      "image": "autumn_leaves.jpg"
+    }
+  },
+  {
+    "pk": 11,
+    "model": "products.product",
+    "fields": {
+      "sku": "sc1003",
+      "name": "Vanilla Bliss",
+      "description": "A creamy vanilla-scented candle for a warm ambiance.",
+      "price": 16.99,
+      "category": 1,
+      "rating": 4.9,
+      "image": "vanilla_bliss.jpg"
+    }
+  },
+  {
+    "pk": 12,
+    "model": "products.product",
+    "fields": {
+      "sku": "uc1003",
+      "name": "Candlelight White",
+      "description": "A timeless unscented candle for every occasion.",
+      "price": 13.99,
+      "category": 2,
+      "rating": 4.3,
+      "image": "candlelight_white.jpg"
+    }
+  },
+  {
+    "pk": 13,
+    "model": "products.product",
+    "fields": {
+      "sku": "dc1003",
+      "name": "Bronze Glow",
+      "description": "A decorative candle with a bronze finish for an elegant look.",
+      "price": 20.99,
+      "category": 3,
+      "rating": 4.8,
+      "image": "bronze_glow.jpg"
+    }
+  },
+  {
+    "pk": 14,
+    "model": "products.product",
+    "fields": {
+      "sku": "gs1003",
+      "name": "Luxury Gift Set",
+      "description": "A luxurious gift set for those special moments.",
+      "price": 39.99,
+      "category": 4,
+      "rating": 4.9,
+      "image": "luxury_gift_set.jpg"
+    }
+  },
+  {
+    "pk": 15,
+    "model": "products.product",
+    "fields": {
+      "sku": "sn1003",
+      "name": "Spring Meadow",
+      "description": "A seasonal candle with the fresh scent of spring.",
+      "price": 19.99,
+      "category": 5,
+      "rating": 4.7,
+      "image": "spring_meadow.jpg"
+    }
+  },
+  {
+    "pk": 16,
+    "model": "products.product",
+    "fields": {
+      "sku": "sc1004",
+      "name": "Citrus Zest",
+      "description": "A vibrant citrus-scented candle for energizing vibes.",
+      "price": 14.50,
+      "category": 1,
+      "rating": 4.6,
+      "image": "citrus_zest.jpg"
+    }
+  },
+  {
+    "pk": 17,
+    "model": "products.product",
+    "fields": {
+      "sku": "uc1004",
+      "name": "Classic Beige",
+      "description": "An unscented beige candle for a soft touch.",
+      "price": 12.99,
+      "category": 2,
+      "rating": 4.5,
+      "image": "classic_beige.jpg"
+    }
+  },
+  {
+    "pk": 18,
+    "model": "products.product",
+    "fields": {
+      "sku": "dc1004",
+      "name": "Crystal Shine",
+      "description": "A decorative candle with a crystal-clear glow.",
+      "price": 22.99,
+      "category": 3,
+      "rating": 4.8,
+      "image": "crystal_shine.jpg"
+    }
+  },
+  {
+    "pk": 19,
+    "model": "products.product",
+    "fields": {
+      "sku": "gs1004",
+      "name": "Everyday Gift Set",
+      "description": "A simple yet elegant gift set for daily use.",
+      "price": 25.99,
+      "category": 4,
+      "rating": 4.6,
+      "image": "everyday_gift_set.jpg"
+    }
+  },
+  {
+    "pk": 20,
+    "model": "products.product",
+    "fields": {
+      "sku": "sn1004",
+      "name": "Summer Breeze",
+      "description": "A seasonal candle with a refreshing summer scent.",
+      "price": 18.99,
+      "category": 5,
+      "rating": 4.7,
+      "image": "summer_breeze.jpg"
+    }
+  }
+]
